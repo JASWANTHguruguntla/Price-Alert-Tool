@@ -68,9 +68,9 @@ if __name__ == "__main__":
     target_price = 34990
     check_interval = 3600
 
-    from_email = "jaswanthmemories@gmail.com"
-    from_password = "elco jqzg moqc pfwt"
-    to_email = "guruguntlaviswanatha@gmail.com"
+    from_email = "from_email@gmail.com" #replce with your from Email
+    from_password = "*****" #replace with generated temporay password for your gmail 
+    to_email = "to_email@gmail.com" #replace with your to_email
 
     print("Starting price tracking...")
     track_price(url, target_price, check_interval, to_email, from_email, from_password)
