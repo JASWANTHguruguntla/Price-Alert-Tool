@@ -14,4 +14,8 @@
 3.Configure & add Email Credentials<br/>
 For security, use Google App Passwords instead of your regular password:<br/>
 . Enable 2-Step Verification in Google<br/>
-. Generate an App Password (Google App Passwords)</p><br/>
+. Generate an App Password (Google App Passwords)<br/>
+. Enter the from_email, from_password(Generated app Password),to_email<br/>
+. Run the Code.<br/>
+. Check the Email for the price tracking Updates</p>
+
