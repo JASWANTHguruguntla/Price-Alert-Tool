@@ -12,6 +12,7 @@
 <p>1.Open Google Colab<br/>
 2.Upload the script (price_tracker.py)<br/>
 3.Configure & add Email Credentials<br/>
+   
 For security, use Google App Passwords instead of your regular password:<br/>
 . Enable 2-Step Verification in Google<br/>
 . Generate an App Password (Google App Passwords)<br/>
