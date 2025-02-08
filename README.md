@@ -8,7 +8,7 @@
 <p>✅ Sends an email alert when the price drops</p>
 <p>✅ Runs at a specified interval to check the price automatically.</p>
 <h3>Setup & Usage</h3>
-<h5>Run on Google Colab (Recommended)</h5>
+<h5>Run on Google Colab(Recommended)</h5>
 <p>1.Open Google Colab<br/>
 2.Upload the script (price_tracker.py)<br/>
 3.Configure & add Email Credentials<br/>
