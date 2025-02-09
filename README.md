@@ -1,4 +1,4 @@
-# Amazon Price Tracker
+#Amazon Price Tracker
 <p>This script monitors the price of a product on Amazon India and sends an email notification when the price drops below a specified target. 
    It uses web scraping (BeautifulSoup) to extract price details and SMTP to send alerts via email.</p>
 
